@@ -34,8 +34,12 @@ The server will be runing on port 5000. There are two routes:
 
 The server runs independently of client code, but the routes in your code need to target uri listed above.
 
-Write all of the code in the client folder, there you can install all of the dependencies with its independant package.json
 
-**Please fill out README.md in the client folder, projects without instructions on how to build and run the project will not be reviewed.**
 
-You can find the prototype on [https://share.goabstract.com/8ab85ded-4fd7-4b76-b374-ca57650b49a0](https://share.goabstract.com/8ab85ded-4fd7-4b76-b374-ca57650b49a0)
+***CLIENT SIDE***
+
+go to CLIENT folder and type yarn-start / npm-start
+
+
+
+In order to successfully run application you need to start server as well as client side app.
